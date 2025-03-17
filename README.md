@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4f66461c-a59f-44bb-beea-37f25e291a78)
 
 Firewall IDS/IPS - Cyber Zone Group Tarafından Geliştirilmiştir
 
