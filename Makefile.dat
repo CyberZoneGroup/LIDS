@@ -1,0 +1,10 @@
+CC = gcc
+CFLAGS = -Wall -Wextra -lpcap -lpthread
+
+all: firewall
+
+firewall: firewall.c
+	$(CC) firewall.c -o $@ $(CFLAGS)
+
+clean:
+	rm -f firewall
